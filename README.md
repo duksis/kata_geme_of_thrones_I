@@ -1,4 +1,5 @@
 # Game of Thrones I
+[![Build Status](https://travis-ci.org/duksis/kata_geme_of_thrones_I.svg?branch=master)](https://travis-ci.org/duksis/kata_geme_of_thrones_I)
 
 ## The challenge
 
